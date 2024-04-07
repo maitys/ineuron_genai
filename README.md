@@ -1,1 +1,1 @@
-# ineuron_genai
+# Generative AI Course - iNeuron
