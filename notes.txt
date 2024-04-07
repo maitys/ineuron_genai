@@ -1,0 +1,38 @@
+#####################################################################
+#### Jan 28	Introduction to Generative AI and text preprocessing ####
+#####################################################################
+
+Gen AI
+    - Generative Image Model --> Image to Image Models, Text to Image models, Large Image Models (LIMs)
+    - Generative Langugage Model --> LLM
+    - Gen AI is subset of Deep Learning [AI --> ML --> DL --> Gen AI]
+
+Sample LLMs --> BERT, GPT, XLM, T5, Megatron, M2M
+
+Encoder Models --> used for text classification tasks (BERT, RoBERTa, XLM, ALBERT, ELECTRA, DeBERTa)
+Decoder Models --> used for code, text generation tasks (GPT family)
+Combined Models --> translation tasks (T5, BART, M2M-100, BigBird)
+
+Other Open Source Models --> BLOOM, Llama 2, PaLM, Falcon, Claude, MPT-30B, Stablelm etc. (https://github.com/eugeneyan/open-llms)
+
+Items discussed:
+    - Roadmap
+    - Gen AI
+    - LLM
+    - History
+
+Next class: Transformer (Encoder and Decoder)
+
+Topics to dicuss to understand text data - Agenda for this class and next class
+    - Text preprocessing
+    - Text encoding
+    - Text embedding
+
+Steps:
+1. Data Ingestion
+2. Data Preprocessing
+- Cleaning
+- Encoding
+- Embedding
+3. Model Building
+4. Model Evaluation
